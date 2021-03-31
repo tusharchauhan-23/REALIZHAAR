@@ -1,0 +1,63 @@
+#navbar{
+    background-color: #361d47;
+    padding: 10px;
+    width: 100%;
+    position: fixed;
+    z-index: +1;
+}
+#title{
+    color: white;
+}
+.navbar-elements{
+    color: aliceblue;
+}
+.nav-link{
+    color: white;
+}
+/* FONT */
+.navbar-brand{
+    font-family: 'Pacifico', cursive;
+    color: #fff;
+    
+}
+#slides{
+    background-color: #151515;
+    color: beige;
+    text-align: center;
+    padding: 200px 100px 150px;
+    font-size: xx-large;
+    font-family: 'New Tegomin', serif;
+
+}
+#introduction{
+    background-color: #301b3f;
+}
+#dp{
+    width: 250px;
+    margin: 100px;
+    float: right;
+}
+#about-text{
+    color: #b4a5a5;
+    font-family: 'New Tegomin', serif;
+    font-size: x-large;
+    text-align: center;
+    padding: 150px;
+}
+#contact{
+    background-color: #151515;
+    padding: 50px;
+    text-align: center;
+}
+#contact-head{
+    color: #b4a5a5;
+    font-size: xx-large;
+}
+.fab{
+    padding: 10px;
+    color: white;
+}
+#copyright{
+    color: #b4a5a5;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
